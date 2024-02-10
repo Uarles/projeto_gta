@@ -117,7 +117,6 @@ body {
 }
 
 .compre-ja {
-    background-color: brown;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -139,7 +138,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #000;
-    width: 400px;
+    width: 500px;
     border-radius: 10px;
     padding: 80px;
     gap: 40px;
